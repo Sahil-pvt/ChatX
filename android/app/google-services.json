@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "893585742027",
+    "project_id": "chatx-2431",
+    "storage_bucket": "chatx-2431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893585742027:android:26a33ba6a5e4025341234e",
+        "android_client_info": {
+          "package_name": "com.example.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893585742027-ouob7724s8v767hj6duhqspgfcp5i7e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatx",
+            "certificate_hash": "ea4100ad9a6a0caf7c89683764f653202d3cb174"
+          }
+        },
+        {
+          "client_id": "893585742027-si07ecmqs5uq5quqh0jdfm6c84p1gaod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8we2GRXBmRZPpj6GfO91g2ZA4rGRa1r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893585742027-ou2qqsg2n7ld9l6kbdipr1diphd2b4b2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893585742027-v23l6439sk5hj5k1re4tildcpk4qv6oh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
