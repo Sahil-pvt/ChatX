@@ -43,8 +43,8 @@ And Much More....
 Thanks for using ChatX:)
 
 # Some Screenshots :-
-<img src="https://user-images.githubusercontent.com/129893605/230779824-cee3b6db-3b59-4358-9762-e927cd9cfaaa.jpg" width=30% height=30%/>
-<img src="https://user-images.githubusercontent.com/129893605/230779776-7549a4a3-bd32-46bf-b7e7-09471e804433.jpg" width=30% height=30%/>
+<img src="https://user-images.githubusercontent.com/129893605/230779824-cee3b6db-3b59-4358-9762-e927cd9cfaaa.jpg" width=20% height=20%/>
+<img src="https://user-images.githubusercontent.com/129893605/230779776-7549a4a3-bd32-46bf-b7e7-09471e804433.jpg" width=20% height=20%/>
 <img src="https://user-images.githubusercontent.com/129893605/230779792-d2b51b27-ad61-48ab-b4ba-9c9caad3e280.jpg" width=30% height=30%/>
 <img src="https://user-images.githubusercontent.com/129893605/230779793-1246fe23-375b-42c4-b7be-b0552017295c.jpg" width=30% height=30%/>
 <img src="https://user-images.githubusercontent.com/129893605/230779796-b587236e-2df7-49db-af22-bc8256dd352f.jpg" width=30% height=30%/>
