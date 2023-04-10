@@ -4,7 +4,7 @@ ChatX is an open-source chatting app made with flutter
 =======
 
 # Download :-
-https://github.com/Sahil-pvt/ChatX
+https://sahil-pvt.github.io/getchatx
 
 ## Getting Started
 
